@@ -1,0 +1,4 @@
+nmap <silent> <C-x><up> :wincmd k<CR>
+nmap <silent> <C-x><down> :wincmd j<CR>
+nmap <silent> <C-x><left> :wincmd h<CR>
+nmap <silent> <C-x><right> :wincmd l<CR>

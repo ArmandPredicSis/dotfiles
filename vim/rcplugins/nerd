@@ -1,0 +1,6 @@
+" Comment/Uncomment easily
+" ---------------------------------------
+
+Bundle 'scrooloose/nerdcommenter'
+
+" vim:ft=vim
